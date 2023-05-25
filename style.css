@@ -1,0 +1,65 @@
+/* styles.css */
+
+#title {
+  color: red;
+  font-size: 34px;
+  text-align: center;  
+
+}
+
+  .meat-title,
+  .hawaiian-title,
+  .supreme-title {
+    font-size: 30px;
+    text-align: center;  
+}
+
+.meat-title {
+color: rgb(175, 201, 61);
+background-color: purple;
+}
+
+.hawaiian-title {
+    color: rgb(91, 202, 27);
+    background-color: rgb(241, 60, 5);
+}
+
+.supreme-title {
+    color: rgb(27, 59, 202);
+    background-color: rgb(12, 1, 1);
+}
+
+.pizza-meat, 
+.pizza-hawaiian,
+.pizza-supreme {
+    font-size: 24px; 
+  }
+
+  .pizza-meat {
+    background-color: aqua;
+  }
+
+  .pizza-hawaiian {
+    background-color: orange;
+  }
+
+  .pizza-supreme {
+    background-color: pink;
+  }
+
+    .description-text {
+
+    font-weight:bold
+
+}
+  .pizza-images {
+    height: auto;
+    width: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .ingredient-text {
+    font-style: italic
+  }
